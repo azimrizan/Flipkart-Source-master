@@ -95,6 +95,10 @@ footer h6{
 	background-color:#fff;
 	border-bottom:1px solid #caccce;
 }
+#carouselExampleControls2 .carousel-control-next,#carouselExampleControls2 .carousel-control-prev {
+	top: 98px;
+	width:6%;
+}
 body{
 	background-color:#f1f3f6;
 	font-family: Roboto,Arial,sans-serif;
